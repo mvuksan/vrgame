@@ -24,7 +24,7 @@ export default function Blog() {
                   {" "}
                   Rightmove is now offering an option that enables buyers of
                   selected commercial properties the option to submit offers and
-                  digitally exchange contracts online.New
+                  digitally exchange contracts online.
                 </p>
               </div>
             </div>
